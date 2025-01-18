@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="./project/img/desenvolvendo.png"
+    src="./project/imag/desenvolvendo.png"
     width="600"
 />
 
