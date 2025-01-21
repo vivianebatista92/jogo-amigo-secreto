@@ -8,7 +8,6 @@ Esse desafio é parte do projeto **OracleOne** em parceria com a **Alura** tendo
     width="600"
 />
 
-
 ## Deploy
 
 O deploy foi feito utilizando o github pages, em [https://vivianebatista92.github.io/jogo-amigo-secreto/](https://vivianebatista92.github.io/jogo-amigo-secreto/)
